@@ -2,7 +2,7 @@
 
 Let me do a self-introduction.
 
-I'm doctypehtml, a junior middle school student, love coding. Now I'm learning front-end developing, and have made some projects.
+I'm doctypehtml, a high school student, love coding. Now I'm learning front-end developing, and have made some projects.
 
 ## About my name
 
@@ -16,7 +16,7 @@ In 2023, I simplified my name - doctypehtml. Ever since then, I use this name un
 
 I have my personal website, [here it is](https://doctypehtml.top).
 
-I started to learn HTML, CSS and JavaScript since 2022, and I made 3 versions of my personal website.
+I started to learn HTML, CSS and JavaScript since 2022, and I made 5 versions of my personal website.
 
 Then at the end of 2025, I start to learn Vue and TypeScript, to make more amazing things.
 
