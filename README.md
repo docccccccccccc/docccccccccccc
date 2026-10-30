@@ -22,6 +22,8 @@ Then at the end of 2025, I started to learn Vue and TypeScript, to make more ama
 
 You can go to my personal website to know more.
 
+Here are my PGP Key: 0x23205733CD3B4FCB
+
 <!--
 **docccccccccccc/docccccccccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
